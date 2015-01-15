@@ -3,3 +3,4 @@
 2、FreeMarker作为邮件模板
 3、Quartz作为自动任务调度
 4、Apache commons Email作为第三方邮件插件
+5、JDK1.8以上
