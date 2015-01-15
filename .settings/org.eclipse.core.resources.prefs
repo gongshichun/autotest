@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//config/tts.properties=UTF-8
+encoding//src/com/technology/tts/mail/template/EmailTemplateService.java=gbk
+encoding//src/com/technology/tts/mail/template/FreemarkerEmailTemplateService.java=gbk
+encoding/<project>=UTF-8
